@@ -1,0 +1,8 @@
+name: NextSKY
+main: com.gmail.eduardokanp.nextsky.Main
+version: 1.1
+author: EduardoKanp
+commands:
+    setid:
+        usage: /<command>
+        description: Relacionado a tareas de Administracion, consultar documentacion para realizar cambios
